@@ -1,6 +1,7 @@
 ### 인스턴스화란? 
 <details>
 <summary>[개념적 관점] 클래스 / 객체 / 인스턴스의 차이점</summary>
+   
 ![image](https://github.com/woowacourse-6th-book-study/2024-effective-java/assets/148152234/48153add-6b9c-4062-964b-5ea202d759d6)
 
 **클래스**
@@ -16,6 +17,7 @@
 - 설계도(붕어빵 틀)를 따라 생성된 객체 하나하나에 해당
 
 ---
+
 ![image](https://github.com/woowacourse-6th-book-study/2024-effective-java/assets/148152234/9844bd2c-1672-482c-88a6-6b8ad0aaf945)
 
 #### [몇가지 짚고 넘어갈 점]
@@ -37,6 +39,7 @@
 
 <summary>[CS적 관점] 클래스 / 객체 / 인스턴스의 차이점</summary>
 <br>
+
 ![image](https://github.com/woowacourse-6th-book-study/2024-effective-java/assets/148152234/4f62737f-d498-48d5-9f7d-3a3a342c469f)
 
 **메서드 영역(Method Area)**
